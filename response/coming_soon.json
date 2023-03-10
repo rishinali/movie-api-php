@@ -1,0 +1,321 @@
+{
+    "items": [
+        {
+            "id": "tt1877830",
+            "title": "The Batman",
+            "fullTitle": "The Batman (2022)",
+            "year": "2022",
+            "releaseState": "March 4",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTExZTdhY2ItNGQ1YS00NjJlLWIxMjYtZTI1MzNlMzY0OTk4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX128_CR0,4,128,176_AL_.jpg",
+            "runtimeMins": "175",
+            "runtimeStr": "2h 55mins",
+            "plot": "When the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+            "contentRating": "PG-13",
+            "imDbRating": "",
+            "imDbRatingCount": "",
+            "metacriticRating": "",
+            "genres": "Action, Crime, Drama, Mystery",
+            "genreList": [
+                {
+                    "key": "Action",
+                    "value": "Action"
+                },
+                {
+                    "key": "Crime",
+                    "value": "Crime"
+                },
+                {
+                    "key": "Drama",
+                    "value": "Drama"
+                },
+                {
+                    "key": "Mystery",
+                    "value": "Mystery"
+                }
+            ],
+            "directors": "Matt Reeves",
+            "directorList": [
+                {
+                    "id": "nm0716257",
+                    "name": "Matt Reeves"
+                }
+            ],
+            "stars": "Zoë Kravitz, Robert Pattinson, Barry Keoghan, Paul Dano",
+            "starList": [
+                {
+                    "id": "nm2368789",
+                    "name": "Zoë Kravitz"
+                },
+                {
+                    "id": "nm1500155",
+                    "name": "Robert Pattinson"
+                },
+                {
+                    "id": "nm4422686",
+                    "name": "Barry Keoghan"
+                },
+                {
+                    "id": "nm0200452",
+                    "name": "Paul Dano"
+                }
+            ]
+        },
+        {
+            "id": "tt5151570",
+            "title": "Mrs Harris Goes to Paris",
+            "fullTitle": "Mrs Harris Goes to Paris (2022)",
+            "year": "2022",
+            "releaseState": "March 4",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjM1ZjIyYzYtODRhYy00ZTc0LThhZjMtNzhmZGM3OWJkNzFkXkEyXkFqcGdeQXVyMjQ4NjAyOTY@._V1_UX128_CR0,1,128,176_AL_.jpg",
+            "runtimeMins": "",
+            "runtimeStr": "",
+            "plot": "A widowed cleaning lady in 1950s London falls madly in love with a couture Dior dress, and decides that she must have one of her own.",
+            "contentRating": "PG",
+            "imDbRating": "",
+            "imDbRatingCount": "",
+            "metacriticRating": "",
+            "genres": "Drama",
+            "genreList": [
+                {
+                    "key": "Drama",
+                    "value": "Drama"
+                }
+            ],
+            "directors": "Anthony Fabian",
+            "directorList": [
+                {
+                    "id": "nm0003745",
+                    "name": "Anthony Fabian"
+                }
+            ],
+            "stars": "Rose Williams, Jason Isaacs, Lucas Bravo, Lesley Manville",
+            "starList": [
+                {
+                    "id": "nm6216593",
+                    "name": "Rose Williams"
+                },
+                {
+                    "id": "nm0005042",
+                    "name": "Jason Isaacs"
+                },
+                {
+                    "id": "nm5575725",
+                    "name": "Lucas Bravo"
+                },
+                {
+                    "id": "nm0544334",
+                    "name": "Lesley Manville"
+                }
+            ]
+        },
+        {
+            "id": "tt11703710",
+            "title": "Downton Abbey: A New Era",
+            "fullTitle": "Downton Abbey: A New Era (2022)",
+            "year": "2022",
+            "releaseState": "March 18",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2VhNGRjZGYtZmFlZS00NWRmLWExOGUtMGU3ZWE2ZGZjNTgzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX128_CR0,4,128,176_AL_.jpg",
+            "runtimeMins": "",
+            "runtimeStr": "",
+            "plot": "Follow-up to the 2019 feature film in which the Crawley family and Downton staff received a royal visit from the King and Queen of Great Britain.",
+            "contentRating": "PG",
+            "imDbRating": "",
+            "imDbRatingCount": "",
+            "metacriticRating": "",
+            "genres": "Drama, Romance",
+            "genreList": [
+                {
+                    "key": "Drama",
+                    "value": "Drama"
+                },
+                {
+                    "key": "Romance",
+                    "value": "Romance"
+                }
+            ],
+            "directors": "Simon Curtis",
+            "directorList": [
+                {
+                    "id": "nm0193508",
+                    "name": "Simon Curtis"
+                }
+            ],
+            "stars": "Maggie Smith, Michelle Dockery, Laura Haddock, Hugh Dancy",
+            "starList": [
+                {
+                    "id": "nm0001749",
+                    "name": "Maggie Smith"
+                },
+                {
+                    "id": "nm1890784",
+                    "name": "Michelle Dockery"
+                },
+                {
+                    "id": "nm2652095",
+                    "name": "Laura Haddock"
+                },
+                {
+                    "id": "nm0199215",
+                    "name": "Hugh Dancy"
+                }
+            ]
+        },
+        {
+            "id": "tt12447796",
+            "title": "Unwelcome",
+            "fullTitle": "Unwelcome (2022)",
+            "year": "2022",
+            "releaseState": "March 18",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzhiMGM5YTktOTlkNS00MmQ5LTg5NTUtYzg3ODVjN2VmMjAzXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_UX128_CR0,4,128,176_AL_.jpg",
+            "runtimeMins": "",
+            "runtimeStr": "",
+            "plot": "Londoners Maya and Jamie who escape their urban nightmare to the tranquility of rural Ireland only to discover malevolent, murderous goblins lurking in the gnarled, ancient wood at the foot of their new garden.",
+            "contentRating": "R",
+            "imDbRating": "",
+            "imDbRatingCount": "",
+            "metacriticRating": "",
+            "genres": "Horror",
+            "genreList": [
+                {
+                    "key": "Horror",
+                    "value": "Horror"
+                }
+            ],
+            "directors": "Jon Wright",
+            "directorList": [
+                {
+                    "id": "nm1229323",
+                    "name": "Jon Wright"
+                }
+            ],
+            "stars": "Hannah John-Kamen, Douglas Booth, Colm Meaney, Jamie-Lee O'Donnell",
+            "starList": [
+                {
+                    "id": "nm4789912",
+                    "name": "Hannah John-Kamen"
+                },
+                {
+                    "id": "nm3150488",
+                    "name": "Douglas Booth"
+                },
+                {
+                    "id": "nm0000538",
+                    "name": "Colm Meaney"
+                },
+                {
+                    "id": "nm5324035",
+                    "name": "Jamie-Lee O'Donnell"
+                }
+            ]
+        },
+        {
+            "id": "tt5181260",
+            "title": "The Unbreakable Boy",
+            "fullTitle": "The Unbreakable Boy (2022)",
+            "year": "2022",
+            "releaseState": "March 18",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjFkMGNkMDEtNDdjYy00YjYwLTk3MjMtNGI2NTAyM2ZmMWY3XkEyXkFqcGdeQXVyMTMwMDA5ODU3._V1_UY176_CR6,0,128,176_AL_.jpg",
+            "runtimeMins": "",
+            "runtimeStr": "",
+            "plot": "A young boy with both a rare brittle-bone disease and autism. But what makes him truly unique is his joyous, funny, life-affirming world view that transforms and unites everyone around him.",
+            "contentRating": "PG",
+            "imDbRating": "",
+            "imDbRatingCount": "",
+            "metacriticRating": "",
+            "genres": "Drama",
+            "genreList": [
+                {
+                    "key": "Drama",
+                    "value": "Drama"
+                }
+            ],
+            "directors": "Jon Gunn",
+            "directorList": [
+                {
+                    "id": "nm0348197",
+                    "name": "Jon Gunn"
+                }
+            ],
+            "stars": "Zachary Levi, Amy Acker, Peter Facinelli, Patricia Heaton",
+            "starList": [
+                {
+                    "id": "nm1157048",
+                    "name": "Zachary Levi"
+                },
+                {
+                    "id": "nm0009918",
+                    "name": "Amy Acker"
+                },
+                {
+                    "id": "nm0004906",
+                    "name": "Peter Facinelli"
+                },
+                {
+                    "id": "nm0005004",
+                    "name": "Patricia Heaton"
+                }
+            ]
+        },
+        {
+            "id": "tt13320622",
+            "title": "The Lost City",
+            "fullTitle": "The Lost City (2022)",
+            "year": "2022",
+            "releaseState": "March 25",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmIwYzFhODAtY2I1YS00ZDdmLTkyYWQtZjI5NDIwMDc2MjEyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX128_CR0,4,128,176_AL_.jpg",
+            "runtimeMins": "92",
+            "runtimeStr": "1h 32mins",
+            "plot": "A reclusive romance novelist on a book tour with her cover model gets swept up in a kidnapping attempt that lands them both in a cutthroat jungle adventure.",
+            "contentRating": "",
+            "imDbRating": "",
+            "imDbRatingCount": "",
+            "metacriticRating": "",
+            "genres": "Action, Adventure, Comedy",
+            "genreList": [
+                {
+                    "key": "Action",
+                    "value": "Action"
+                },
+                {
+                    "key": "Adventure",
+                    "value": "Adventure"
+                },
+                {
+                    "key": "Comedy",
+                    "value": "Comedy"
+                }
+            ],
+            "directors": "Aaron Nee, Adam Nee",
+            "directorList": [
+                {
+                    "id": "nm1887480",
+                    "name": "Aaron Nee"
+                },
+                {
+                    "id": "nm1519639",
+                    "name": "Adam Nee"
+                }
+            ],
+            "stars": "Sandra Bullock, Brad Pitt, Channing Tatum, Daniel Radcliffe",
+            "starList": [
+                {
+                    "id": "nm0000113",
+                    "name": "Sandra Bullock"
+                },
+                {
+                    "id": "nm0000093",
+                    "name": "Brad Pitt"
+                },
+                {
+                    "id": "nm1475594",
+                    "name": "Channing Tatum"
+                },
+                {
+                    "id": "nm0705356",
+                    "name": "Daniel Radcliffe"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}
